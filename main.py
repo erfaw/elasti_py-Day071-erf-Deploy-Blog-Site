@@ -225,4 +225,4 @@ def load_user(user_id):
     return db.get_or_404(User, user_id)
 
 if __name__ == "__main__":
-    app.run(debug=False, port=5002)
+    app.run(debug=False)
