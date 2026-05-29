@@ -6,7 +6,7 @@ This is a project which outputted from **[elasti_py/ Day071](https://github.com/
 ## Explain the path till here...
 This project made at **[elasti_py/ Day057/ 3. Capstone Project](https://github.com/erfaw/elasti_py/tree/master/Day057-erf/3.%20Capstone%20Project)** for first time and improved many times in **[elasti_py/ Day059/ Upgraded Blog](https://github.com/erfaw/elasti_py/tree/master/Day059-erf/Upgraded%20Blog)** && **[elasti_py/ Day060/ 2. blog with contact form](https://github.com/erfaw/elasti_py/tree/master/Day060-erf/2.%20blog%20with%20contact%20form)** && **[elasti_py/ Day067/ Upgraded Upgraded Blog Site](https://github.com/erfaw/elasti_py/tree/master/Day067-erf/Upgraded%20Upgraded%20Blog%20Site)** with what we learned about `Flask` framework in general to learn through the Udemy course [`Udemy – 100-days-of-code: Python - Angela Yu`](https://www.udemy.com/course/100-days-of-code/).
 
-| [Overview](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#overview) | [How to Run](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-how-to-run) | [ER-Diagram](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-er-diagram) | [What I Learned](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-what-i-learned) |
+| [Overview](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#overview) | [How to Run](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-how-to-run) | [ER-Diagram](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#er-diagram) | [What I Learned](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-what-i-learned) |
 
 ---
 ---
