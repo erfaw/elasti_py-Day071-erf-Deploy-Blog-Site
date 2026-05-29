@@ -8,6 +8,7 @@ This is a project which outputted from **[elasti_py/ Day071](https://github.com/
 | [How to Run](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-how-to-run) 
 | [ER-Diagram](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#er-diagram) 
 | [What I Learned](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#-what-i-learned) 
+| [Screen Shots](https://github.com/erfaw/elasti_py-Day071-erf-Deploy-Blog-Site#screen-shots) 
 |
 
 
@@ -98,3 +99,5 @@ The application focuses on user authentication, content management, database int
 * Applying `web design principles`, including **color theory**, **typography**, **user interface (UI)**, and **user experience (UX)** design.
 * Managing form validation and browser-side `validation behavior` for greater control over application logic.
 * Understanding the role of `WSGI` and `Gunicorn` in deploying Python web applications.
+
+## Screen Shots
