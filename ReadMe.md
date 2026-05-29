@@ -30,6 +30,18 @@ Users can **create accounts**, **log in securely**, **publish blog posts**, **le
 The application focuses on user authentication, content management, database integration, and building dynamic web experiences using Flask.
 
 ### Key Technologies Used:
+* Flask
+    * Flask-SQLAlchemy
+    * Bootstrap-Flask
+    * Flask-CKEditor
+    * Flask-WTF
+    * Flask-Login
+    * Jinja2
+    * Wekzeug Security
+* SQLAlchemy
+* SQLite
+* Bootstrap 5
+* HTML, CSS, JavaScript
 
 ### ER-Diagram
 <img src="./assets/er-diagram/er-diagram-dark.jpg" width=50%>
