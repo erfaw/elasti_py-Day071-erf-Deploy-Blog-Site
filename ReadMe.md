@@ -29,13 +29,10 @@ This project is a **personal blog web application** built with `Flask` and its r
 Users can **create accounts**, **log in securely**, **publish blog posts**, **leave comments**, and interact with content shared by other users.
 The application focuses on user authentication, content management, database integration, and building dynamic web experiences using Flask.
 
-
-
-### ER-Diagram
-
-
 ### Key Technologies Used:
 
+### ER-Diagram
+<img src="./assets/er-diagram/er-diagram-dark.jpg" width=50%>
 
 ## 🚀 How to Run
 1. Ensure you have Python installed.
