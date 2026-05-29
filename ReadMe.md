@@ -60,7 +60,17 @@ The application focuses on user authentication, content management, database int
     pip install requirements.txt
     ```
 
-5. Run local (`DEBUG = True`): 
+5. Make `.env` for `SECRET_KEY`:
+    ```
+    touch .env
+    ```
+    then inside it make a key-value pare like this: 
+    ```
+    SECRET_KEY="PUT_YOUR_KEY_HERE"
+    ```
+    then **fill it with a STRONG one!**
+
+6. Run local (`DEBUG = True`): 
     ```
     python main.py
     ```
