@@ -85,4 +85,16 @@ The application focuses on user authentication, content management, database int
     ```
 
 ## 💡 What I Learned
-
+* Building a ***full-stack web application*** using `Flask` and **its ecosystem**.
+* Working with `SQLAlchemy ORM` and **designing relational database schemas**.
+* Gaining a deeper understanding of SQLAlchemy `models`, `relationships`, and **database operations**.
+* Implementing <u>**user authentication**</u>, <u>**registration**</u>, and <u>**login**</u> systems.
+* Understanding **password security concepts**, including `hashing` and `salting`.
+* Learning the importance of **securely storing user credentials** and sensitive data.
+* Using `Jinja2` templates and understanding Python web application **templating systems**.
+* Creating secure web forms with **CSRF protection** using `Flask-WTF`.
+* Understanding `CSRF attacks` and **common web security vulnerabilities**.
+* Developing greater awareness of fundamental `cybersecurity principles` in web applications.
+* Applying `web design principles`, including **color theory**, **typography**, **user interface (UI)**, and **user experience (UX)** design.
+* Managing form validation and browser-side `validation behavior` for greater control over application logic.
+* Understanding the role of `WSGI` and `Gunicorn` in deploying Python web applications.
