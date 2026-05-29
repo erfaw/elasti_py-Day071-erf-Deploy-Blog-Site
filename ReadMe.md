@@ -1,5 +1,5 @@
 
-# Personal Blog 🛒🔗
+# Personal Blog 🌶️📝✍️
 
 This is a project which outputted from **[elasti_py/ Day071](https://github.com/erfaw/elasti_py/tree/master/Day071-erf)** repo.
 
