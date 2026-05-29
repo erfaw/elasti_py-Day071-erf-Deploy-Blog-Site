@@ -101,3 +101,41 @@ The application focuses on user authentication, content management, database int
 * Understanding the role of `WSGI` and `Gunicorn` in deploying Python web applications.
 
 ## Screen Shots
+<table>
+    <tr>
+        <th>Home</th>
+        <th>About</th>
+    </tr>
+    <th>
+        <img src="./assets/ui-screen-shots/Home-page.png" alt="home page screen shot">
+    </th>
+    <th>
+        <img src="./assets/ui-screen-shots/About-page.png" alt="about page screen shot">
+    </th>
+</table>
+
+<table>
+    <tr>
+        <th>Contact</th>
+        <th>Login</th>
+    </tr>
+    <th>
+        <img src="./assets/ui-screen-shots/Contact-page.png" alt="contact page screen shot">
+    </th>
+    <th>
+        <img src="./assets/ui-screen-shots/Login-page.png" alt="login page screen shot">
+    </th>
+</table>
+
+<table>
+    <tr>
+        <th>Register</th>
+        <th>Sample Post</th>
+    </tr>
+    <th>
+        <img src="./assets/ui-screen-shots/Register-page.png" alt="register page screen shot">
+    </th>
+    <th>
+        <img src="./assets/ui-screen-shots/Sample-post-page.jpg" alt="sample post page screen shot">
+    </th>
+</table>
