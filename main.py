@@ -19,7 +19,7 @@ from functools import wraps
 
 ROOT_DIR = Path(__file__).resolve().parent
 (ROOT_DIR / 'instance').mkdir(exist_ok=True)
-db_path = (ROOT_DIR / 'instance' / 'posts.db').as_posix()
+# db_path = (ROOT_DIR / 'instance' / 'posts.db').as_posix()
 
 load_dotenv(ROOT_DIR/'.env')
 
@@ -34,7 +34,7 @@ login_manager.init_app(app)
 
 class Base(DeclarativeBase):
     pass
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DB_URI', f'sqlite:///{db_path}')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DB_URI')
 db = SQLAlchemy(model_class=Base)
 db.init_app(app)
 
